@@ -36,7 +36,7 @@ header{
 .hero{
 	display:grid;
 	place-items:center;
-	height:70vh;
+	height:50vh;
 	background:linear-gradient(135deg, var(--primary), var(--accent));
 	color:white;
 	padding:4rem 2rem;
